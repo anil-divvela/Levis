@@ -5,6 +5,6 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
 http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd">
 	<http:listener-config name="HTTP_Listener_config" doc:name="HTTP Listener config" doc:id="b50c8c12-0063-4921-9272-a28e5fcca87e" >
-		<http:listener-connection host="localhost" port="8081" />
+		<http:listener-connection host="localhost" port="96969" />
 	</http:listener-config>
 </mule>
